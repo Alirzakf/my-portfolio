@@ -1,15 +1,15 @@
 # Hi, I’m Alireza Kafi
 
-🎓 **MSc Data Science – University of Salford, Manchester**  
-📚 **BSc Industrial Engineering
-(Proudly NODET)
+ **MSc Data Science – University of Salford, Manchester**  
+ **BSc Industrial Engineering**
+Proudly NODET
 
 🔧 **Tech + Innovation Enthusiast**  
 Software engineer and creative technologist passionate about **Linux, Python, Data Science, Machine Learning, LLMs, and modern software systems** — and an audio engineer producing, mixing & mastering music.
 
 ---
 
-## 💡 What I Bring to the Table
+##  What I Bring to the Table
 
 - **Industrial Engineering Background:** Systems thinking, optimization, and real-world process design  
 - **Software & Data Science Skills:** Python, Machine Learning, LLMs, Pascal (Lazarus), Linux, WordPress, SEO, Automation  
@@ -18,7 +18,7 @@ Software engineer and creative technologist passionate about **Linux, Python, Da
 
 ---
 
-## 🔍 Current Focus
+##  Current Focus
 
 - Advancing Python programming, algorithmic thinking, and data-driven problem solving  
 - Building expertise in **machine learning, data modeling, and scalable data systems**  
@@ -40,7 +40,7 @@ Machine learning system analyzing human activity for behavior prediction in publ
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
