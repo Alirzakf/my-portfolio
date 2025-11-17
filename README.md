@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Alireza Kafi
+# Hi, I’m Alireza Kafi
 
 🎓 **MSc Data Science (Conversion) – University of Salford, Manchester**  
 📚 **BSc Industrial Engineering – Azad University** (Proudly NODET)
