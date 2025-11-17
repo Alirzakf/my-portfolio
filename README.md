@@ -1,29 +1,36 @@
-Alireza Kafi
+# Alireza Kafi
 
-MSc Data Science – University of Salford, Manchester
-BSc Industrial Engineering 
-Proudly a NODET (National Organization for Development of Exceptional Talents) 
+**MSc Data Science** – University of Salford, Manchester  
+**BSc Industrial Engineering** – NODET  
 
-Software engineer and data scientist with a focus on machine learning, AI, and data-driven systems, complemented by a background in industrial engineering and audio engineering.
+Software engineer and data scientist focused on **machine learning, AI, and data-driven systems**, with a strong foundation in **engineering principles** and **creative problem-solving**.
 
-⸻
+---
 
-Skills & Expertise
-	•	Engineering & Analytics: Systems thinking, optimization, predictive modeling
-	•	Software & Data Science: Python, ML/LLMs, Linux, Pascal, WordPress, Automation
-	•	Research & Innovation: AI-driven systems, human-computer interfaces, ethical ML
-	•	Creative Practice: Music production, mixing, mastering (enhancing attention to detail)
+## Core Competencies
 
-⸻
+- **Engineering & Analytics:** Systems thinking, optimization, process design, predictive modeling  
+- **Software & Data Science:** Python, Machine Learning, LLMs, Linux, Pascal, Automation  
+- **Research & Innovation:** AI-driven systems, neuroscience interfaces, ethical ML applications  
+- **Creative Practice:** Music production, mixing, and mastering — fostering precision and aesthetic awareness  
 
-Projects
-	1.	AI-Powered Grade Prediction – ML models predicting student performance using UK public datasets.
-	2.	Brainwave-to-Radio Transmission – Decoding brain signals and transmitting via radio waves using AI and signal processing.
-	3.	Human Behavior Prediction from CCTV – Ethical ML system analyzing public activity for predictive insights.
+---
 
-⸻
+## Selected Projects
 
-Contact
-	•	GitHub: github.com/alirzakf
-	•	LinkedIn: linkedin.com/in/alirezakafi
-	•	Portfolio: kafi.studio
+**AI-Powered Grade Prediction**  
+Predicting student performance using public UK datasets with machine learning models.
+
+**Brainwave-to-Radio Transmission**  
+Decoding brain signals and transmitting via radio using AI and signal processing.
+
+**Human Behavior Prediction from CCTV**  
+Ethical ML system analyzing human activity for predictive insights.
+
+---
+
+## Contact
+
+- **GitHub:** [github.com/alirzakf](https://github.com/alirzakf)  
+- **LinkedIn:** [linkedin.com/in/alirezakafi](https://www.linkedin.com/in/alirezakafi)  
+- **Portfolio:** [kafi.studio](https://www.kafi.studio)
