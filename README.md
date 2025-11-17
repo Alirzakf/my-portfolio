@@ -1,7 +1,8 @@
 # Hi, I’m Alireza Kafi
 
-🎓 **MSc Data Science (Conversion) – University of Salford, Manchester**  
-📚 **BSc Industrial Engineering – Azad University** (Proudly NODET)
+🎓 **MSc Data Science – University of Salford, Manchester**  
+📚 **BSc Industrial Engineering
+(Proudly NODET)
 
 🔧 **Tech + Innovation Enthusiast**  
 Software engineer and creative technologist passionate about **Linux, Python, Data Science, Machine Learning, LLMs, and modern software systems** — and an audio engineer producing, mixing & mastering music.
