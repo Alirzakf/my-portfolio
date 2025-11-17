@@ -33,4 +33,4 @@ Ethical ML system analyzing human activity for predictive insights.
 
 - **GitHub:** [github.com/alirzakf](https://github.com/alirzakf)  
 - **LinkedIn:** [linkedin.com/in/alirezakafi](https://www.linkedin.com/in/alirezakafi)  
-- **Portfolio:** [kafi.studio](https://www.kafi.studio)
+- **Website:** [kafi.studio](https://www.kafi.studio)
